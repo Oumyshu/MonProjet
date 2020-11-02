@@ -1,0 +1,13 @@
+n1 = 3,m1 = 2,λ1 = 20,
+n2 = 4,m2 = 3,λ2 = 35, 
+n3 = 3,m3 = 3,λ3 = 28,
+µa = 200 secondes, 
+σa = 60 secondes,
+µr = 100 secondes,
+σr = 90 secondes, 
+µb = 20 minutes,
+σb = 8 minutes, 
+r = 0.8,
+p = 0.05, 
+s = 10 minutes,
+n = 1000.
